@@ -13,3 +13,4 @@ class IndexView(TemplateView):
         context['page_title'] = 'Aydyn Sahra - Portfolio'
         return context
 
+
